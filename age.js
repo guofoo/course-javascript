@@ -1,6 +1,6 @@
 var year = 1984;
 var now  = 2012;
-var age  = ???;    // FILL IN ANSWER HERE
+var age  = now-year    // FILL IN ANSWER HERE
 var output;
 
 function run()
