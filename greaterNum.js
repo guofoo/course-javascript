@@ -5,4 +5,4 @@ function greaterNum(num1, num2) {
         return num2;
     }
 }
-console.log("greater number is: " + greatexrNum(10, 20));
+console.log("greater number is: " + greaterNum(10, 20));
