@@ -1,4 +1,4 @@
- ???   // FILL IN YOUR ANSWER HERE
+var BASE_SCALE = 32;   // FILL IN YOUR ANSWER HERE
 
 function celsiusToFahrenheit(celsius) {
   var celsiusInF = (celsius*9)/5 + BASE_SCALE;
